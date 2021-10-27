@@ -7,7 +7,7 @@ As the application has been built using SpringBoot, it can be initialized by sim
 
 A mini project based on SpringBoot to build an API that can:
 
-store new users in the database:
+1) store new users in the database:
 url -> http://localhost:8080/users
 
 mapping -> POST
@@ -20,12 +20,12 @@ We can use an HTTP client like Postman to send the data meant to be stored in th
 }
 
 
-displays the list of all the users:
+2) displays the list of all the users:
 url -> http://localhost:8080/users
 
 mapping -> GET
 
-displays the list of all the users according to their level of access:
+3) displays the list of all the users according to their level of access:
 
 a) single value -> http://localhost:8080/users/findByAccess?accessParam=member
 

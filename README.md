@@ -18,6 +18,8 @@ We can use an HTTP client like Postman to send the data meant to be stored in th
     "user-name": "IIJJJ",
     "user-access-level": "MODERATOR"
 }
+
+
 displays the list of all the users:
 url -> http://localhost:8080/users
 

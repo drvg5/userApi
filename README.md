@@ -3,6 +3,8 @@ Initializing the project:
 
 As the application has been built using SpringBoot, it can be initialized by simply running it as a Java application(no server configuration required).
 [To initialize, goto UserRepoApplication.java -> run as java application]
+
+
 A mini project based on SpringBoot to build an API that can:
 
 store new users in the database:
